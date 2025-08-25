@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 499,
+    "rating": 4.2,
+    "image": "https://picsum.photos/seed/mouse/300/200"
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 1499,
+    "rating": 4.6,
+    "image": "https://picsum.photos/seed/speaker/300/200"
+  },
+  {
+    "id": 3,
+    "name": "Coffee Mug",
+    "category": "Home",
+    "price": 199,
+    "rating": 4.0,
+    "image": "https://picsum.photos/seed/mug/300/200"
+  },
+  {
+    "id": 4,
+    "name": "Notebook",
+    "category": "Stationery",
+    "price": 99,
+    "rating": 3.9,
+    "image": "https://picsum.photos/seed/notebook/300/200"
+  },
+  {
+    "id": 5,
+    "name": "Gaming Keyboard",
+    "category": "Electronics",
+    "price": 2499,
+    "rating": 4.8,
+    "image": "https://picsum.photos/seed/keyboard/300/200"
+  },
+  {
+    "id": 6,
+    "name": "Table Lamp",
+    "category": "Home",
+    "price": 899,
+    "rating": 4.3,
+    "image": "https://picsum.photos/seed/lamp/300/200"
+  }
+]
